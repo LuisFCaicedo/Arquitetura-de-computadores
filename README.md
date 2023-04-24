@@ -11,3 +11,6 @@
 
 ## pgm_octa_decimal
 ![pgm_octal_to_decimal](/pgm_octa_decimal/octaldecimal/octaltodecimal.png)
+
+## hexadecimal_to_decimal
+![hexadecimal_to_decimal](/hexadecimal_to_decimal/hexadecimaltodecimal/hexadecimal.png)
