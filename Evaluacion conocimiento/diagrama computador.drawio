@@ -1,0 +1,178 @@
+<mxfile host="app.diagrams.net" modified="2023-05-10T01:18:48.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qN0NiZsjmQrrKnpmkDhX" version="21.2.9" type="device">
+  <diagram name="Página-1" id="IY7XBrhCaQqNVUrSoqKb">
+    <mxGraphModel dx="1434" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bqwH7B79G_NROaB3eO3u-1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 10px;&quot;&gt;equipo indispensable en la vida cotidiana de los ingenieros de sistemas, hoy en día que también se conoce por el nombre de&amp;nbsp;&lt;strong style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: rgb(255, 255, 255); text-align: start;&quot;&gt;computador&lt;/strong&gt;&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;u&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: rgb(255, 255, 255); text-align: start;&quot;&gt;ordenador&lt;/strong&gt;&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;, es una máquina electrónica que permite procesar y acumular datos&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-40" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-56.2" width="202.4" height="202.4" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-3" target="bqwH7B79G_NROaB3eO3u-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-3" target="bqwH7B79G_NROaB3eO3u-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-3" target="bqwH7B79G_NROaB3eO3u-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-3" value="componentes externos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.025;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-3" target="bqwH7B79G_NROaB3eO3u-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="302.4" as="sourcePoint" />
+            <mxPoint x="430" y="252.4" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.305;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="200" />
+              <mxPoint x="1020" y="275" />
+              <mxPoint x="841" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="200" />
+              <mxPoint x="1050" y="348" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1079" y="200" />
+              <mxPoint x="1079" y="275" />
+              <mxPoint x="1196" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="200" />
+              <mxPoint x="1120" y="240" />
+              <mxPoint x="1432" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.346;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1139" y="200" />
+              <mxPoint x="1612" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-5" value="componentes internos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1019.2" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.99;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bqwH7B79G_NROaB3eO3u-5" target="bqwH7B79G_NROaB3eO3u-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="338" as="sourcePoint" />
+            <mxPoint x="725" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.mouse" vertex="1" parent="1">
+          <mxGeometry x="31.200000000000003" y="464" width="21.6" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-8" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="180" y="464" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.keyboard" vertex="1" parent="1">
+          <mxGeometry x="370" y="474" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/DarkGlass_Reworked/128x128/devices/Ram.png" vertex="1" parent="1">
+          <mxGeometry x="760" y="464" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.disk;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="463" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/drf/PNG/intel%202.png" vertex="1" parent="1">
+          <mxGeometry x="1160" y="473" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_vt1_instance;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="465" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-19" value="Estoy compuesto de Hardware y Software" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-20" value="Hardware&#xa;board" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.hardware_board;" vertex="1" parent="1">
+          <mxGeometry x="550" y="458" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-22" value="permite diridir el movmiento en la pantalla para trasmitir ordenes por medio de la pantalla" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="31.199999999999996" y="350" width="139.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-25" value="Muestra gráficamente todos los proceso que se están ejecutando en el equipo, esta conecta con la tarjeta de video" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="139.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-26" value="compuesta por letras, símbolos, números etc que sirve para escribir utilizando un sistema de puntadas&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="354" width="139.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-31" value="yo lo defino como el corazon., placa madre del computador por en ella se conectan todos los componetes internos como externos, para coordianarlos y funciones de forma correcta" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-33" value="almacena de forma temporal todos los datos que se ejecutan por parte de los programas que contiene el equipo" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="350" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-35" value="Dispositivo de almacenamiento de datos no volátil, donde se guardan todos archivos y el sistema operativo del equipo" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="348" width="139.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-36" value="El procesador como su nombre lo indica procesa todas las ordenas que ingresan al equipo, organiza o enruta de forma automática y con velocidad todas las aplicaciones intadas&amp;nbsp; que se estan ejecutando&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1150.8" y="350" width="179.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-37" value="La ROM es la memoria de solo lectura, principalmente almacena el Firmware y datos importantes para el funcionamiento del equipo." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1342" y="353" width="179.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-38" value="Tarjeta de video o también llamada tarjeta grafica, es la encargada de enviar o transformar la información que se ve en los monitores,&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="355" width="179.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.image;strokeColor=none;fillColor=#777777;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="478" width="30.23" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-50" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_3p;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="484" width="27" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-51" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_3p;" vertex="1" parent="1">
+          <mxGeometry x="1777" y="484" width="27" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-52" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_3p;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="484" width="27" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-53" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_3p;" vertex="1" parent="1">
+          <mxGeometry x="1831" y="484" width="27" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-54" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cb_3p;" vertex="1" parent="1">
+          <mxGeometry x="1858" y="484" width="27" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-56" value="Componentes electrónicos también conocidos como chip que&amp;nbsp;los cuales se encuentran en los circuitos de prácticamente todas las piezas de hardware y periféricos." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1754.9" y="353" width="179.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-57" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqwH7B79G_NROaB3eO3u-58" value="Luis Fernando Caicedo Solis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="590" width="400" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
